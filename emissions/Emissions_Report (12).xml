@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report Name="Emissions_Report" Textbox4="Emissions Year 2017" Textbox63="California Department of Water Resources" xmlns="Emissions_Report" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="Emissions_Report https://rs2k801.discountasp.net/ReportServer?%2fcris4org000%2freports%2fEmissions_Report&amp;rs%3aCommand=Render&amp;rs%3aFormat=XML&amp;rs%3aSessionID=cixrgw3rnol0k245kpp4ba45&amp;rc%3aSchema=True">
+	<Tablix5>
+		<Details2_Collection>
+			<Details2/>
+		</Details2_Collection>
+	</Tablix5>
+	<Tablix3/>
+	<Tablix1>
+		<Details_Collection>
+			<Details EntityName1="   California Department of Water Resources" EntityURL3="Website: www.water.ca.gov" SectorProtocol="Additional Reporting Standards: " Textbox103="Consolidation Methodology: Financial Control and Equity Share" Textbox108="Verification Body: Cameron-Cole, LLC" Textbox2="GWP Standard: AR5" Textbox24="The mission of the California Department of Water Resources (CDWR) is to manage the water resources of California in cooperation with other agencies for the benefit of the state's people and protect, restore, and enhance the natural and human environments. DWR operates and maintains the State Water Project (SWP), including the California Aqueduct, and provides dam safety, flood control, and local water management assistance while it plans for the state's future water needs." Textbox29="81 - Other Services (except Public Administration)" Textbox41="1416 9th Street
+Sacramento, California  US" Textbox43="Contact: 
+Charmaine Duong
+Charmaine.Duong@water.ca.gov" Textbox47="Base Year: 2010" Textbox73="Reporting Protocol: General Reporting Protocol 2.1 and associated updates and clarifications" Textbox8="Status: TCR Accepted" Textbox82="Detail Report - Control (Public)" email="Complete Inventory 2017   " limitedassurace="Level of Assurance: Reasonable"/>
+		</Details_Collection>
+	</Tablix1>
+	<Tablix2>
+		<Details1_Collection>
+			<Details1>
+				<CO2e_SubReport>
+					<Report Name="Emissions_Report_CO2eGas" Textbox21="Entity Emissions | Total in metric tons of CO2e">
+						<List1>
+							<scopeorderby_Collection>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="26.3251773614928" CO21="14290.3762536457" HFC_CO2e="432.81732" N2O="137.07159901242" NF3="0" PFC_CO2e="0" SF6="2763.985541" TOTALCO2e="17650.5758910196" textbox10="SF6
+(t of CO2e)" textbox2="Scope 1 - Direct Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="17650.5758910196" Textbox26="14290.3762536457" Textbox27="26.3251773614928" Textbox28="137.07159901242" Textbox29="432.81732" Textbox30="0" Textbox48="0" Textbox49="2763.985541">
+														<Detail_Collection>
+															<Detail Activity="Stationary Combustion" CH4="3.7864687214928" CO2="1262.08590272573" HFC_CO2e1="0" N2O1="5.09255588742" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1270.96492733464"/>
+															<Detail Activity="Mobile Combustion" CH4="22.53870864" CO2="13028.29035092" HFC_CO2e1="0" N2O1="131.979043125" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="13182.808102685"/>
+															<Detail Activity="Fugitive" CH4="0" CO2="0" HFC_CO2e1="432.81732" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="2763.985541" TOTALCO2e1="3196.802861"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="742.639991079533" CO21="1444014.64570434" HFC_CO2e="0" N2O="1266.1290542644" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="1446023.41474968" textbox10="SF6
+(t of CO2e)" textbox2="Scope 2 - Market Based - Indirect Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="1446023.41474968" Textbox26="1444014.64570434" Textbox27="742.639991079533" Textbox28="1266.1290542644" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Market Based" CH4="742.639991079533" CO2="1444014.64570434" HFC_CO2e1="0" N2O1="1266.1290542644" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1446023.41474968"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" CO21="5401.62" HFC_CO2e="0" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="5401.62" textbox10="SF6
+(t of CO2e)" textbox2="Biogenic - Direct Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="5401.62" Textbox26="5401.62" Textbox27="0" Textbox28="0" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Mobile Biomass Combustion" CH4="0" CO2="5401.62" HFC_CO2e1="0" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="5401.62"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" HFC_CO2e="0" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" textbox10="SF6
+(t of CO2e)" textbox2="Biogenic - Market Based - Indirect Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox27="0" Textbox28="0" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Market Based - Biomass" CH4="0" HFC_CO2e1="0" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" CO21="194116" HFC_CO2e="0" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="194116" textbox10="SF6
+(t of CO2e)" textbox2="Optional - Optional Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="194116" Textbox26="194116" Textbox27="0" Textbox28="0" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Scope 3 " CH4="0" CO2="194116" HFC_CO2e1="0" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="194116"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+							</scopeorderby_Collection>
+						</List1>
+					</Report>
+				</CO2e_SubReport>
+				<Gas_SubReport>
+					<Report Name="Emissions_Report_CO2eGas" Textbox21="Entity Emissions | Total in metric tons of gas">
+						<List1>
+							<scopeorderby_Collection>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0.9401849057676" CO21="14290.3762536457" HFC_CO2e="432.81732" N2O="0.517251317028" NF3="0" PFC_CO2e="0" SF6="0.117616406" TOTALCO2e="17650.5758910196" textbox10="SF6
+(t)" textbox2="Scope 1 - Direct Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="17650.5758910196" Textbox26="14290.3762536457" Textbox27="0.9401849057676" Textbox28="0.517251317028" Textbox29="432.81732" Textbox30="0" Textbox48="0" Textbox49="0.117616406">
+														<Detail_Collection>
+															<Detail Activity="Stationary Combustion" CH4="0.1352310257676" CO2="1262.08590272573" HFC_CO2e1="0" N2O1="0.019217192028" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1270.96492733464"/>
+															<Detail Activity="Mobile Combustion" CH4="0.80495388" CO2="13028.29035092" HFC_CO2e1="0" N2O1="0.498034125" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="13182.808102685"/>
+															<Detail Activity="Fugitive" CH4="0" CO2="0" HFC_CO2e1="432.81732" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0.117616406" TOTALCO2e1="3196.802861"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="26.522856824269" CO21="1444014.64570434" HFC_CO2e="0" N2O="4.77784548779019" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="1446023.41474968" textbox10="SF6
+(t)" textbox2="Scope 2 - Market Based - Indirect Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="1446023.41474968" Textbox26="1444014.64570434" Textbox27="26.522856824269" Textbox28="4.77784548779019" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Market Based" CH4="26.522856824269" CO2="1444014.64570434" HFC_CO2e1="0" N2O1="4.77784548779019" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1446023.41474968"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" CO21="5401.62" HFC_CO2e="0" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="5401.62" textbox10="SF6
+(t)" textbox2="Biogenic - Direct Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="5401.62" Textbox26="5401.62" Textbox27="0" Textbox28="0" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Mobile Biomass Combustion" CH4="0" CO2="5401.62" HFC_CO2e1="0" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="5401.62"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" HFC_CO2e="0" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" textbox10="SF6
+(t)" textbox2="Biogenic - Market Based - Indirect Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox27="0" Textbox28="0" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Market Based - Biomass" CH4="0" HFC_CO2e1="0" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" CO21="194116" HFC_CO2e="0" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="194116" textbox10="SF6
+(t)" textbox2="Optional - Optional Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="194116" Textbox26="194116" Textbox27="0" Textbox28="0" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Scope 3 " CH4="0" CO2="194116" HFC_CO2e1="0" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="194116"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+							</scopeorderby_Collection>
+						</List1>
+					</Report>
+				</Gas_SubReport>
+				<SEMs_Subreport>
+					<Report Name="Emissions_Report_SEMs">
+						<table1>
+							<Detail_Collection>
+								<Detail Category="Market Based" TOTALCO2SEe="3215.20069848173" TOTALCO2SEe1="0.218858762285183%" TOTALCO2e="1469075.6106407"/>
+							</Detail_Collection>
+						</table1>
+					</Report>
+				</SEMs_Subreport>
+				<Facility_Breakdown_Subreport>
+					<Report Name="Emissions_Report_FacilityBreakdown">
+						<List1>
+							<facilityname_Collection>
+								<facilityname>
+									<list1_facilityname_Collection>
+										<list1_facilityname facilityname="Facility Emissions  | CDWR Aggregated Facilities" facilityname2="2135 Butano Drive, Sacramento, California, 95825, US" facilityname3="Equity share  - 100% | Entity controls the facility emissions - Yes">
+											<Tablix1/>
+											<List2>
+												<list1_scopeorderby_Collection>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 1 - Direct Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="17650.5758910196" co21="14290.3762536457" co22="0.9401849057676" hfc1="432.81732" n2o="0.517251317028" nf31="0" pfc1="0" sf61="0.117616406">
+																	<Detail_Collection>
+																		<Detail Activity="Stationary Combustion" TOTALCO2e="1270.96492733464" ch4="0.1352310257676" co2="1262.08590272573" hfc="0" n2o1="0.019217192028" nf3="0" pfc="0" sf6="0"/>
+																		<Detail Activity="Mobile Combustion" TOTALCO2e="13182.808102685" ch4="0.80495388" co2="13028.29035092" hfc="0" n2o1="0.498034125" nf3="0" pfc="0" sf6="0"/>
+																		<Detail Activity="Fugitive" TOTALCO2e="3196.802861" ch4="0" co2="0" hfc="432.81732" n2o1="0" nf3="0" pfc="0" sf6="0.117616406"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 2 - Market Based - Indirect Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="1271.22999267992" co21="1262.69934433599" co22="0.141890824269035" hfc1="0" n2o="0.0171988877901861" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Purchased Electricity - Market Based" TOTALCO2e="1271.22999267992" ch4="0.141890824269035" co2="1262.69934433599" hfc="0" n2o1="0.0171988877901861" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+													<list1_scopeorderby>
+														<table1 Textbox2="Biogenic - Direct Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="5401.62" co21="5401.62" co22="0" hfc1="0" n2o="0" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Mobile Biomass Combustion" TOTALCO2e="5401.62" ch4="0" co2="5401.62" hfc="0" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+													<list1_scopeorderby>
+														<table1 Textbox2="Optional - Optional Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="194116" co21="194116" co22="0" hfc1="0" n2o="0" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Scope 3 " TOTALCO2e="194116" ch4="0" co2="194116" hfc="0" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+												</list1_scopeorderby_Collection>
+											</List2>
+										</list1_facilityname>
+									</list1_facilityname_Collection>
+									<Source_Breakdown>
+										<Report Name="Emissions_Report_SourceBreakdown">
+											<List1>
+												<list1_SourceName_Collection>
+													<list1_SourceName SourceName="Source Emissions | Acetylene/Welding
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="2.495087338" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CO2" GasQty="2.495087338" SEM="Yes" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Carbon Dioxide
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="0.385557471" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CO2" GasQty="0.385557471" SEM="Yes" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Construction
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Scope 3 (Optional)" AdditionalInfo="" CO2e="194116" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="CO2" GasQty="194116" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Electricity - Location Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="2833.60122166178" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="527.9 lb/MWh" EndUseSector="2017" Fuel="WECC California" FuelQty="11833707" FuelType="Regional Grid-Average" Gas="CO2" GasQty="2833.60122166178" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="4.95974148288595" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="33 lb/GWh" EndUseSector="2017" Fuel="WECC California" FuelQty="11833707" FuelType="Regional Grid-Average" Gas="CH4" GasQty="0.177133624388784" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="5.68974672279123" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="4 lb/GWh" EndUseSector="2017" Fuel="WECC California" FuelQty="11833707" FuelType="Regional Grid-Average" Gas="N2O" GasQty="0.0214707423501556" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Electricity - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="0" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="527.9 lb/MWh" EndUseSector="2017" Fuel="WECC California" FuelQty="0" FuelType="Regional Grid-Average" Gas="CO2" GasQty="0" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="0" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="33 lb/GWh" EndUseSector="2017" Fuel="WECC California" FuelQty="0" FuelType="Regional Grid-Average" Gas="CH4" GasQty="0" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="0" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="4 lb/GWh" EndUseSector="2017" Fuel="WECC California" FuelQty="0" FuelType="Regional Grid-Average" Gas="N2O" GasQty="0" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Electricity - PG&amp;E - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="1262.69934433599" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.8" EmissionFactor="293.67 lb/MWh" EndUseSector="2016" Fuel="Pacific Gas &amp; Electric" FuelQty="9479253" FuelType="Utility-Specific Rate" Gas="CO2" GasQty="1262.69934433599" SEM="No" Technology="System Average"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="3.97294307953298" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="33 lb/GWh" EndUseSector="2016" Fuel="Pacific Gas &amp; Electric" FuelQty="9479253" FuelType="Utility-Specific Rate" Gas="CH4" GasQty="0.141890824269035" SEM="No" Technology="System Average"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="4.55770526439932" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #14.1" EmissionFactor="4 lb/GWh" EndUseSector="2016" Fuel="Pacific Gas &amp; Electric" FuelQty="9479253" FuelType="Utility-Specific Rate" Gas="N2O" GasQty="0.0171988877901861" SEM="No" Technology="System Average"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Mobile Combustion - CNG
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="0" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #13.1" EmissionFactor="0.05444 kg/scf" EndUseSector="Light Duty Vehicles" Fuel="Compressed Natural Gas (CNG)" FuelQty="0" FuelType="Alternative Fuels" Gas="CO2" GasQty="0" SEM="Yes" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="0" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #13.6" EmissionFactor="0.737 g/mi" EndUseSector="Light Duty Vehicles" Fuel="Compressed Natural Gas (CNG)" FuelQty="0" FuelType="Alternative Fuels" Gas="CH4" GasQty="0" SEM="Yes" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="0" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #13.6" EmissionFactor="0.05 g/mi" EndUseSector="Light Duty Vehicles" Fuel="Compressed Natural Gas (CNG)" FuelQty="0" FuelType="Alternative Fuels" Gas="N2O" GasQty="0" SEM="Yes" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Mobile Diesel Combustion
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="35.53422992" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CO2" GasQty="35.53422992" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="0.058802044" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CH4" GasQty="0.002100073" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="0.33617158" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="N2O" GasQty="0.001268572" SEM="Yes" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Mobile Gasoline Combustion
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="2624.278521" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CO2" GasQty="2624.278521" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="4.342656108" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CH4" GasQty="0.155094861" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="24.826986895" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="N2O" GasQty="0.093686743" SEM="Yes" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Mobile Gasoline Combustion - Bulk
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="10368.4776" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CO2" GasQty="10368.4776" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="17.157756728" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CH4" GasQty="0.612777026" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="98.09098225" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="N2O" GasQty="0.37015465" SEM="Yes" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Natural Gas Services (Heating)
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="411.08235" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.1" EmissionFactor="53.06 kg/MMBtu" EndUseSector="Commercial" Fuel="Unspecified (Weighted U.S. Average)" FuelQty="77475" FuelType="Natural Gas" Gas="CO2" GasQty="411.08235" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="1.08465" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.9" EmissionFactor="5 g/MMBtu" EndUseSector="Commercial" Fuel="Unspecified (Weighted U.S. Average)" FuelQty="77475" FuelType="Natural Gas" Gas="CH4" GasQty="0.0387375" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="0.20530875" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.9" EmissionFactor="0.1 g/MMBtu" EndUseSector="Commercial" Fuel="Unspecified (Weighted U.S. Average)" FuelQty="77475" FuelType="Natural Gas" Gas="N2O" GasQty="0.00077475" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Propane
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="454.5103388" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.1" EmissionFactor="5.66 kg/gal" EndUseSector="Commercial" Fuel="Propane (Liquid)" FuelQty="80302.18" FuelType="Petroleum Products" Gas="CO2" GasQty="454.5103388" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="2.0501917454928" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.9" EmissionFactor="10.02 g/MMBtu" EndUseSector="Commercial" Fuel="Propane (Liquid)" FuelQty="80302.18" FuelType="Petroleum Products" Gas="CH4" GasQty="0.0732211337676" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="1.16189224242" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.9" EmissionFactor="0.6 g/MMBtu" EndUseSector="Commercial" Fuel="Propane (Liquid)" FuelQty="80302.18" FuelType="Petroleum Products" Gas="N2O" GasQty="0.004384499028" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Refrigerants
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Fugitive" AdditionalInfo="" CO2e="389.181" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="HFC-134a" GasQty="0.29937" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Fugitive" AdditionalInfo="" CO2e="43.63632" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="R-410A" GasQty="0.02268" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Renewable Diesel
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Biomass Combustion - Biomass" AdditionalInfo="" CO2e="5401.62" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #13.1" EmissionFactor="9.45 kg/gal" EndUseSector="Diesel Medium and Heavy-Duty Trucks and Busses" Fuel="Biodiesel (100%)" FuelQty="571600" FuelType="Biofuels" Gas="CO2" GasQty="5401.62" SEM="No" Technology="Medium and Heavy-Duty Vehicles (Model Years 1960-2011)"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="0.97949376" CalculationMethod="Emission Factor" EmissionFactor="0.0051 g/mi" EndUseSector="Diesel Medium and Heavy-Duty Trucks and Busses" Fuel="Biodiesel (100%)" FuelQty="6859200" FuelType="Biofuels" Gas="CH4" GasQty="0.03498192" SEM="Yes" Technology="Medium and Heavy-Duty Vehicles (Model Years 1960-2011)"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CO2e="8.7249024" CalculationMethod="Emission Factor" EmissionFactor="0.0048 g/mi" EndUseSector="Diesel Medium and Heavy-Duty Trucks and Busses" Fuel="Biodiesel (100%)" FuelQty="6859200" FuelType="Biofuels" Gas="N2O" GasQty="0.03292416" SEM="Yes" Technology="Medium and Heavy-Duty Vehicles (Model Years 1960-2011)"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Renewable Diesel Combustion
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CO2" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="CH4" SEM="Yes" Technology="PreCalculated"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="PreCalculated" Gas="N2O" SEM="Yes" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | SF6
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Fugitive" AdditionalInfo="" CO2e="2763.985541" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="SF6" GasQty="0.117616406" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Stationary Diesel Combustion
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="393.612569116726" CalculationMethod="Emission Factor" EFReference="2018 Default Emission Factors - Table #12.1" EmissionFactor="10.35 kg/gal" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelQty="143959.9671" FuelType="Petroleum Products" Gas="CO2" GasQty="393.612569116726" SEM="Yes" Technology="Large Diesel Oil Engines &gt;600hp (447kW)"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="0.651626976" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelQty="N/A" FuelType="Petroleum Products" Gas="CH4" GasQty="0.023272392" SEM="Yes" Technology="Large Diesel Oil Engines &gt;600hp (447kW)"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CO2e="3.725354895" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelQty="N/A" FuelType="Petroleum Products" Gas="N2O" GasQty="0.014057943" SEM="Yes" Technology="Large Diesel Oil Engines &gt;600hp (447kW)"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+												</list1_SourceName_Collection>
+											</List1>
+										</Report>
+									</Source_Breakdown>
+								</facilityname>
+								<facilityname>
+									<list1_facilityname_Collection>
+										<list1_facilityname facilityname="Facility Emissions  | Reid Gardner Unit 4" facilityname2="6226 West Sahara Avenue, Las Vegas, Nevada, 89146, US" facilityname3="Equity share  - 100% | Entity controls the facility emissions - Yes">
+											<Tablix1/>
+											<List2>
+												<list1_scopeorderby_Collection>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 1 - Direct Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope co21="0" co22="0" hfc1="0" n2o="0" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Stationary Combustion" ch4="0" co2="0" hfc="0" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																		<Detail Activity="Mobile Combustion" ch4="0" co2="0" hfc="0" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																		<Detail Activity="Fugitive" co2="0" hfc="0" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+												</list1_scopeorderby_Collection>
+											</List2>
+										</list1_facilityname>
+									</list1_facilityname_Collection>
+									<Source_Breakdown>
+										<Report Name="Emissions_Report_SourceBreakdown">
+											<List1>
+												<list1_SourceName_Collection>
+													<list1_SourceName SourceName="Source Emissions | RG4 Coal Burned
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.1" EmissionFactor="2325.47 kg/ton" EndUseSector="Electric Power" Fuel="Bituminous" FuelType="Coal" Gas="CO2" SEM="No" Technology="Pulverized Combustion Boilers (Dry Bottom, wall fired)"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.5" EmissionFactor="0.7 g/MMBtu" EndUseSector="Electric Power" Fuel="Bituminous" FuelType="Coal" Gas="CH4" SEM="No" Technology="Pulverized Combustion Boilers (Dry Bottom, wall fired)"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.5" EmissionFactor="0.5 g/MMBtu" EndUseSector="Electric Power" Fuel="Bituminous" FuelType="Coal" Gas="N2O" SEM="No" Technology="Pulverized Combustion Boilers (Dry Bottom, wall fired)"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | RG4 D9 Diesel
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #13.1" EmissionFactor="10.21 kg/gal" EndUseSector="Non-Highway" Fuel="All" FuelType="Diesel Fuel" Gas="CO2" SEM="No" Technology="Other Large Utility"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #13.7" EmissionFactor="0.58 g/gal" EndUseSector="Non-Highway" Fuel="All" FuelType="Diesel Fuel" Gas="CH4" SEM="No" Technology="Other Large Utility"/>
+																<Detail ActivityType="Mobile Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #13.7" EmissionFactor="0.26 g/gal" EndUseSector="Non-Highway" Fuel="All" FuelType="Diesel Fuel" Gas="N2O" SEM="No" Technology="Other Large Utility"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | RG4 Emergency Generator
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.1" EmissionFactor="10.35 kg/gal" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelType="Petroleum Products" Gas="CO2" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="0.003 kg/MMBtu" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelType="Petroleum Products" Gas="CH4" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="0.0006 kg/MMBtu" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelType="Petroleum Products" Gas="N2O" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | RG4 Fire Pump
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.1" EmissionFactor="10.35 kg/gal" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelType="Petroleum Products" Gas="CO2" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="0.003 kg/MMBtu" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelType="Petroleum Products" Gas="CH4" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Stationary Combustion" AdditionalInfo="" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="0.0006 kg/MMBtu" EndUseSector="Electric Power" Fuel="Distillate Fuel Oil No. 2" FuelType="Petroleum Products" Gas="N2O" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | RG4 Fugitive Emissions
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Fugitive" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="CH4" SEM="Yes" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+												</list1_SourceName_Collection>
+											</List1>
+										</Report>
+									</Source_Breakdown>
+								</facilityname>
+								<facilityname>
+									<list1_facilityname_Collection>
+										<list1_facilityname facilityname="Facility Emissions  | State Water Project Power Portfolio" facilityname2="2135 Butano Drive, Sacramento, California, 95825, US" facilityname3="Equity share  - 100% | Entity controls the facility emissions - Yes">
+											<Tablix1/>
+											<List2>
+												<list1_scopeorderby_Collection>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 2 - Market Based - Indirect Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="1444752.184757" co21="1442751.94636" co22="26.380966" hfc1="0" n2o="4.7606466" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Purchased Electricity - Market Based" TOTALCO2e="1444752.184757" ch4="26.380966" co2="1442751.94636" hfc="0" n2o1="4.7606466" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+													<list1_scopeorderby>
+														<table1 Textbox2="Biogenic - Market Based - Indirect Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope co22="0" hfc1="0" n2o="0" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Purchased Electricity - Market Based - Biomass" ch4="0" hfc="0" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+												</list1_scopeorderby_Collection>
+											</List2>
+										</list1_facilityname>
+									</list1_facilityname_Collection>
+									<Source_Breakdown>
+										<Report Name="Emissions_Report_SourceBreakdown">
+											<List1>
+												<list1_SourceName_Collection>
+													<list1_SourceName SourceName="Source Emissions | AMP Biogas
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based - Biomass" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Energy Attribute Certificate" Gas="CO2" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Energy Attribute Certificate" Gas="CH4" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Energy Attribute Certificate" Gas="N2O" SEM="No" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | LEC - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="93304.20596" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Contract-Specific Factor" Gas="CO2" GasQty="93304.20596" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="49.237048" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Contract-Specific Factor" Gas="CH4" GasQty="1.758466" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="46.599349" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Contract-Specific Factor" Gas="N2O" GasQty="0.1758466" SEM="No" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Net AMP - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Contract-Specific Factor" Gas="CO2" SEM="No" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Pump Load - Location Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="1564418.7575" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Regional Grid-Average" Gas="CO2" GasQty="1564418.7575" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="799.2572" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Regional Grid-Average" Gas="CH4" GasQty="28.5449" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="1408.5015" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Regional Grid-Average" Gas="N2O" GasQty="5.3151" SEM="No" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Pump Load - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="1349447.7404" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Regional Grid-Average" Gas="CO2" GasQty="1349447.7404" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="689.43" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Regional Grid-Average" Gas="CH4" GasQty="24.6225" SEM="No" Technology="PreCalculated"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="1214.972" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="PreCalculated" Fuel="PreCalculated" FuelQty="N/A" FuelType="Regional Grid-Average" Gas="N2O" GasQty="4.5848" SEM="No" Technology="PreCalculated"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+												</list1_SourceName_Collection>
+											</List1>
+										</Report>
+									</Source_Breakdown>
+								</facilityname>
+							</facilityname_Collection>
+						</List1>
+					</Report>
+				</Facility_Breakdown_Subreport>
+			</Details1>
+		</Details1_Collection>
+	</Tablix2>
+</Report>

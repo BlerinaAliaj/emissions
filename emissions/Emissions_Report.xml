@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report Name="Emissions_Report" Textbox4="Emissions Year 2016" Textbox63="Terra Global Capital LLC" xmlns="Emissions_Report" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="Emissions_Report https://rs2k801.discountasp.net/ReportServer?%2fcris4org000%2freports%2fEmissions_Report&amp;rs%3aCommand=Render&amp;rs%3aFormat=XML&amp;rs%3aSessionID=xpyoox45kd4bcqnryqq1hoi0&amp;rc%3aSchema=True">
+	<Tablix5>
+		<Details2_Collection>
+			<Details2/>
+		</Details2_Collection>
+	</Tablix5>
+	<Tablix3/>
+	<Tablix1>
+		<Details_Collection>
+			<Details EntityName1="   Terra Global Capital LLC" EntityURL3="Website: www.terraglobalcapital.com" SectorProtocol="Additional Reporting Standards: " Textbox103="Consolidation Methodology: Operational Control Only" Textbox108="Verification Body: Ruby Canyon Engineering Inc." Textbox2="GWP Standard: AR5" Textbox24="" Textbox29="54 - Professional, Scientific, and Technical Services" Textbox41="220 Montgomery Street
+Suite 608
+San Francisco, California  US" Textbox43="Contact: 
+Erica Meta Smith
+info@terraglobalcapital.com" Textbox47="Base Year: " Textbox73="Reporting Protocol: General Reporting Protocol 2.1 and associated updates and clarifications" Textbox8="Status: TCR Accepted" Textbox82="Detail Report - Control (Public)" email="Complete Inventory 2016   " limitedassurace="Level of Assurance: Limited"/>
+		</Details_Collection>
+	</Tablix1>
+	<Tablix2>
+		<Details1_Collection>
+			<Details1>
+				<CO2e_SubReport>
+					<Report Name="Emissions_Report_CO2eGas" Textbox21="Entity Emissions | Total in metric tons of CO2e">
+						<List1>
+							<scopeorderby_Collection>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" CO21="0" HFC_CO2e="0.097664112" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="0.097664112" textbox10="SF6
+(t of CO2e)" textbox2="Scope 1 - Direct Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="0.097664112" Textbox26="0" Textbox27="0" Textbox28="0" Textbox29="0.097664112" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Fugitive" CH4="0" CO2="0" HFC_CO2e1="0.097664112" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="0.097664112"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0.00542336712770019" CO21="2.66106473625826" HFC_CO2e="0" N2O="0.00349135055922291" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="2.66997945394518" textbox10="SF6
+(t of CO2e)" textbox2="Scope 2 - Location Based - Indirect Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="2.66997945394518" Textbox26="2.66106473625826" Textbox27="0.00542336712770019" Textbox28="0.00349135055922291" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Location Based" CH4="0.00258245520770019" CO2="1.58435911857826" HFC_CO2e1="0" N2O1="0.00295360651722291" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.58989518030318"/>
+															<Detail Activity="Purchased Heating - Location Based" CH4="0.00284091192" CO2="1.07670561768" HFC_CO2e1="0" N2O1="0.000537744042" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.080084273642"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0.00542336712770019" CO21="2.66106473625826" HFC_CO2e="0" N2O="0.00349135055922291" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="2.66997945394518" textbox10="SF6
+(t of CO2e)" textbox2="Scope 2 - Market Based - Indirect Emissions" textbox5="CH4
+(t of CO2e)" textbox6="N2O
+(t of CO2e)" textbox9="NF3
+(t of CO2e)">
+												<Groups_Collection>
+													<Groups Textbox25="2.66997945394518" Textbox26="2.66106473625826" Textbox27="0.00542336712770019" Textbox28="0.00349135055922291" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Market Based" CH4="0.00258245520770019" CO2="1.58435911857826" HFC_CO2e1="0" N2O1="0.00295360651722291" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.58989518030318"/>
+															<Detail Activity="Purchased Heating - Market Based" CH4="0.00284091192" CO2="1.07670561768" HFC_CO2e1="0" N2O1="0.000537744042" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.080084273642"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+							</scopeorderby_Collection>
+						</List1>
+					</Report>
+				</CO2e_SubReport>
+				<Gas_SubReport>
+					<Report Name="Emissions_Report_CO2eGas" Textbox21="Entity Emissions | Total in metric tons of gas">
+						<List1>
+							<scopeorderby_Collection>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0" CO21="0" HFC_CO2e="0.097664112" N2O="0" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="0.097664112" textbox10="SF6
+(t)" textbox2="Scope 1 - Direct Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="0.097664112" Textbox26="0" Textbox27="0" Textbox28="0" Textbox29="0.097664112" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Fugitive" CH4="0" CO2="0" HFC_CO2e1="0.097664112" N2O1="0" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="0.097664112"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0.00019369168313215" CO21="2.66106473625826" HFC_CO2e="0" N2O="1.31749077706525E-05" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="2.66997945394518" textbox10="SF6
+(t)" textbox2="Scope 2 - Location Based - Indirect Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="2.66997945394518" Textbox26="2.66106473625826" Textbox27="0.00019369168313215" Textbox28="1.31749077706525E-05" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Location Based" CH4="9.22305431321498E-05" CO2="1.58435911857826" HFC_CO2e1="0" N2O1="1.11456849706525E-05" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.58989518030318"/>
+															<Detail Activity="Purchased Heating - Location Based" CH4="0.00010146114" CO2="1.07670561768" HFC_CO2e1="0" N2O1="2.0292228E-06" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.080084273642"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+								<scopeorderby>
+									<list1_Scope_Collection>
+										<list1_Scope>
+											<table1 CH41="0.00019369168313215" CO21="2.66106473625826" HFC_CO2e="0" N2O="1.31749077706525E-05" NF3="0" PFC_CO2e="0" SF6="0" TOTALCO2e="2.66997945394518" textbox10="SF6
+(t)" textbox2="Scope 2 - Market Based - Indirect Emissions" textbox5="CH4
+(t)" textbox6="N2O
+(t)" textbox9="NF3
+(t)">
+												<Groups_Collection>
+													<Groups Textbox25="2.66997945394518" Textbox26="2.66106473625826" Textbox27="0.00019369168313215" Textbox28="1.31749077706525E-05" Textbox29="0" Textbox30="0" Textbox48="0" Textbox49="0">
+														<Detail_Collection>
+															<Detail Activity="Purchased Electricity - Market Based" CH4="9.22305431321498E-05" CO2="1.58435911857826" HFC_CO2e1="0" N2O1="1.11456849706525E-05" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.58989518030318"/>
+															<Detail Activity="Purchased Heating - Market Based" CH4="0.00010146114" CO2="1.07670561768" HFC_CO2e1="0" N2O1="2.0292228E-06" NF31="0" PFC_CO2e1="0" SF61="0" TOTALCO2e1="1.080084273642"/>
+														</Detail_Collection>
+													</Groups>
+												</Groups_Collection>
+											</table1>
+										</list1_Scope>
+									</list1_Scope_Collection>
+								</scopeorderby>
+							</scopeorderby_Collection>
+						</List1>
+					</Report>
+				</Gas_SubReport>
+				<SEMs_Subreport>
+					<Report Name="Emissions_Report_SEMs">
+						<table1>
+							<Detail_Collection>
+								<Detail Category="Location Based" TOTALCO2SEe="0.097664112" TOTALCO2SEe1="3.52878214527768%" TOTALCO2e="2.76764356594518"/>
+								<Detail Category="Market Based" TOTALCO2SEe="0.097664112" TOTALCO2SEe1="3.52878214527768%" TOTALCO2e="2.76764356594518"/>
+							</Detail_Collection>
+						</table1>
+					</Report>
+				</SEMs_Subreport>
+				<Facility_Breakdown_Subreport>
+					<Report Name="Emissions_Report_FacilityBreakdown">
+						<List1>
+							<facilityname_Collection>
+								<facilityname>
+									<list1_facilityname_Collection>
+										<list1_facilityname facilityname="Facility Emissions  | Leased Office - Mills Building" facilityname2="220 Montomery Street, San Francisco, California, 94104, US" facilityname3="Equity share  - 100% | Entity controls the facility emissions - Yes">
+											<Tablix1/>
+											<List2>
+												<list1_scopeorderby_Collection>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 1 - Direct Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="0.097664112" co21="0" co22="0" hfc1="0.097664112" n2o="0" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Fugitive" TOTALCO2e="0.097664112" ch4="0" co2="0" hfc="0.097664112" n2o1="0" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 2 - Location Based - Indirect Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="2.66997945394518" co21="2.66106473625826" co22="0.00019369168313215" hfc1="0" n2o="1.31749077706525E-05" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Purchased Electricity - Location Based" TOTALCO2e="1.58989518030318" ch4="9.22305431321498E-05" co2="1.58435911857826" hfc="0" n2o1="1.11456849706525E-05" nf3="0" pfc="0" sf6="0"/>
+																		<Detail Activity="Purchased Heating - Location Based" TOTALCO2e="1.080084273642" ch4="0.00010146114" co2="1.07670561768" hfc="0" n2o1="2.0292228E-06" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+													<list1_scopeorderby>
+														<table1 Textbox2="Scope 2 - Market Based - Indirect Emissions">
+															<table1_Scope_Collection>
+																<table1_Scope TOTALCO2e1="2.66997945394518" co21="2.66106473625826" co22="0.00019369168313215" hfc1="0" n2o="1.31749077706525E-05" nf31="0" pfc1="0" sf61="0">
+																	<Detail_Collection>
+																		<Detail Activity="Purchased Electricity - Market Based" TOTALCO2e="1.58989518030318" ch4="9.22305431321498E-05" co2="1.58435911857826" hfc="0" n2o1="1.11456849706525E-05" nf3="0" pfc="0" sf6="0"/>
+																		<Detail Activity="Purchased Heating - Market Based" TOTALCO2e="1.080084273642" ch4="0.00010146114" co2="1.07670561768" hfc="0" n2o1="2.0292228E-06" nf3="0" pfc="0" sf6="0"/>
+																	</Detail_Collection>
+																</table1_Scope>
+															</table1_Scope_Collection>
+														</table1>
+													</list1_scopeorderby>
+												</list1_scopeorderby_Collection>
+											</List2>
+										</list1_facilityname>
+									</list1_facilityname_Collection>
+									<Source_Breakdown>
+										<Report Name="Emissions_Report_SourceBreakdown">
+											<List1>
+												<list1_SourceName_Collection>
+													<list1_SourceName SourceName="Source Emissions | Purchased Electricity - Location Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="1.58435911857826" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #14.1" EmissionFactor="568.6 lb/MWh" EndUseSector="2016" Fuel="WECC California" FuelQty="6.143" FuelType="Regional Grid-Average" Gas="CO2" GasQty="1.58435911857826" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="0.00258245520770019" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #14.1" EmissionFactor="33.1 lb/GWh" EndUseSector="2016" Fuel="WECC California" FuelQty="6.143" FuelType="Regional Grid-Average" Gas="CH4" GasQty="9.22305431321498E-05" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Location Based" AdditionalInfo="" CO2e="0.00295360651722291" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #14.1" EmissionFactor="4 lb/GWh" EndUseSector="2016" Fuel="WECC California" FuelQty="6.143" FuelType="Regional Grid-Average" Gas="N2O" GasQty="1.11456849706525E-05" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Purchased Electricity - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="1.58435911857826" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #14.1" EmissionFactor="568.6 lb/MWh" EndUseSector="2016" Fuel="WECC California" FuelQty="6.143" FuelType="Regional Grid-Average" Gas="CO2" GasQty="1.58435911857826" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="0.00258245520770019" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #14.1" EmissionFactor="33.1 lb/GWh" EndUseSector="2016" Fuel="WECC California" FuelQty="6.143" FuelType="Regional Grid-Average" Gas="CH4" GasQty="9.22305431321498E-05" SEM="No" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Purchased Electricity - Market Based" AdditionalInfo="" CO2e="0.00295360651722291" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #14.1" EmissionFactor="4 lb/GWh" EndUseSector="2016" Fuel="WECC California" FuelQty="6.143" FuelType="Regional Grid-Average" Gas="N2O" GasQty="1.11456849706525E-05" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Scope 2 - Natural Gas - Location Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Heating - Location Based" AdditionalInfo="" CO2e="1.07670561768" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.1" EmissionFactor="53.06 kg/MMBtu" EndUseSector="Pipeline (US weighted average)" Fuel="Natural Gas" FuelQty="19778" FuelType="Fuel-Specific Factor" Gas="CO2" GasQty="1.07670561768" SEM="No" Technology="Commerical"/>
+																<Detail ActivityType="Purchased Heating - Location Based" AdditionalInfo="" CO2e="0.00284091192" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="5 g/MMBtu" EndUseSector="Pipeline (US weighted average)" Fuel="Natural Gas" FuelQty="19778" FuelType="Fuel-Specific Factor" Gas="CH4" GasQty="0.00010146114" SEM="No" Technology="Commerical"/>
+																<Detail ActivityType="Purchased Heating - Location Based" AdditionalInfo="" CO2e="0.000537744042" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="0.1 g/MMBtu" EndUseSector="Pipeline (US weighted average)" Fuel="Natural Gas" FuelQty="19778" FuelType="Fuel-Specific Factor" Gas="N2O" GasQty="2.0292228E-06" SEM="No" Technology="Commerical"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Scope 2 - Natural Gas - Market Based
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Purchased Heating - Market Based" AdditionalInfo="" CO2e="1.07670561768" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.1" EmissionFactor="53.06 kg/MMBtu" EndUseSector="Pipeline (US weighted average)" Fuel="Natural Gas" FuelQty="19778" FuelType="Fuel-Specific Factor" Gas="CO2" GasQty="1.07670561768" SEM="No" Technology="Commerical"/>
+																<Detail ActivityType="Purchased Heating - Market Based" AdditionalInfo="" CO2e="0.00284091192" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="5 g/MMBtu" EndUseSector="Pipeline (US weighted average)" Fuel="Natural Gas" FuelQty="19778" FuelType="Fuel-Specific Factor" Gas="CH4" GasQty="0.00010146114" SEM="No" Technology="Commerical"/>
+																<Detail ActivityType="Purchased Heating - Market Based" AdditionalInfo="" CO2e="0.000537744042" CalculationMethod="Emission Factor" EFReference="2017 Default Emission Factors - Table #12.9" EmissionFactor="0.1 g/MMBtu" EndUseSector="Pipeline (US weighted average)" Fuel="Natural Gas" FuelQty="19778" FuelType="Fuel-Specific Factor" Gas="N2O" GasQty="2.0292228E-06" SEM="No" Technology="Commerical"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+													<list1_SourceName SourceName="Source Emissions | Small Office Fridge
+">
+														<table1>
+															<Detail_Collection>
+																<Detail ActivityType="Fugitive" AdditionalInfo="" CO2e="0.097664112" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="HFC-134a" GasQty="7.512624E-05" SEM="Yes" Technology="Unspecified Technology"/>
+																<Detail ActivityType="Fugitive" AdditionalInfo="" CO2e="0" CalculationMethod="PreCalculated" EFReference="N/A" EmissionFactor="N/A" EndUseSector="All" Fuel="N/A" FuelQty="N/A" FuelType="N/A" Gas="CO2" GasQty="0" SEM="No" Technology="Unspecified Technology"/>
+															</Detail_Collection>
+														</table1>
+													</list1_SourceName>
+												</list1_SourceName_Collection>
+											</List1>
+										</Report>
+									</Source_Breakdown>
+								</facilityname>
+							</facilityname_Collection>
+						</List1>
+					</Report>
+				</Facility_Breakdown_Subreport>
+			</Details1>
+		</Details1_Collection>
+	</Tablix2>
+</Report>
